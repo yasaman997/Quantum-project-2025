@@ -1,6 +1,6 @@
 # Quantum-project-2025
 
-Project: Portfolio Optimization
+Project: Quantum for Portfolio Optimization
 
 Participant:
 Name: Yasaman Yaghoobi
